@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: flash_config_script
   m_EditorClassIdentifier: 
   flashDuration: 0.1
-  targetFlashMaterial: {fileID: 2100000, guid: 3a556adc22f1648168eaea6a468dd260, type: 2}
+  targetFlashMaterial: {fileID: 2100000, guid: 8b703a73f581d9e48aab99ff8197428d, type: 2}
